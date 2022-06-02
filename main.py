@@ -1,4 +1,4 @@
-valor = 0
+valor = 0.0
 for i in range(0,3):
     valor += float(input("digite um valor"))
 media = valor/3
