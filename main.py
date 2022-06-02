@@ -1,4 +1,5 @@
-valor = 0.0
+print("linha a mais no master")
+valor = 0
 for i in range(0,3):
     valor += float(input("digite um valor"))
 media = valor/3
