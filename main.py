@@ -1,5 +1,5 @@
 valor = 0.0
 for i in range(0,3):
-    valor += float(input("digite um valor"))
+    valor += float(input("digite um valor aqui"))
 media = valor/3
 print("A Média entre os três valores é: ",media)
